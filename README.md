@@ -15,25 +15,25 @@
 
 ## 🚀 Languages and Tools I Use
 
-<!-- border="0" removes borders, align="left" moves it to the left, cellpadding adds internal gaps -->
+<!-- align="left" moves the grid to the left, cellpadding="10" creates the gaps -->
 <table border="0" align="left" cellpadding="10">
-  <!-- Row 1: Frontend & Design -->
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" /><br/>JS</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" /><br/>TS</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" /><br/>React</td>
-    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" /><br/>Next.js</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" /><br/>Tailwind</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" /><br/>Figma</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="js" /><br/>JS</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="ts" /><br/>TS</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="react" /><br/>React</td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" alt="nextjs" /><br/>Next.js</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="tailwind" /><br/>Tailwind</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="node" /><br/>Node</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="express" /><br/>Express</td>
   </tr>
-  <!-- Row 2: Backend & Logic -->
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" /><br/>Node</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" /><br/>Express</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" /><br/>Python</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" /><br/>MongoDB</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /><br/>MySQL</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" /><br/>Docker</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="mongodb" /><br/>MongoDB</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="mysql" /><br/>MySQL</td>
+    <td align="center"><img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" alt="reactnative" /><br/>Native</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" alt="flutter" /><br/>Flutter</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="firebase" /><br/>Firebase</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="docker" /><br/>Docker</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="figma" /><br/>Figma</td>
   </tr>
 </table>
 
@@ -45,11 +45,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajeshnraj2004&show_icons=true&theme=vue&include_all_commits=true" alt="Main Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajeshnraj2004&show_icons=true&theme=vue&include_all_commits=true" alt="Stats" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshnraj2004&theme=vue" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshnraj2004&theme=vue" alt="Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshnraj2004&layout=compact&theme=vue" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshnraj2004&layout=compact&theme=vue" alt="Langs" />
 </p>
 
 ---
