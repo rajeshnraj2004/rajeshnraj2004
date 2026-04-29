@@ -5,74 +5,89 @@
 
 ---
 
-### 🚀 About Me
-A passionate full stack developer from India, dedicated to building scalable web applications and seamless user experiences.
+## 🚀 Languages and Tools
+
+<table>
+  <!-- Row 1: Frontend -->
+  <tr>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" /><br />JS
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" /><br />TS
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" /><br />React
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" /><br />Next.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" /><br />Tailwind
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" /><br />Redux
+    </td>
+  </tr>
+
+  <!-- Row 2: Backend & DB -->
+  <tr>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" /><br />Node
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" /><br />Express
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" /><br />MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /><br />MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" /><br />Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" /><br />Postman
+    </td>
+  </tr>
+
+  <!-- Row 3: Mobile & Cloud -->
+  <tr>
+    <td align="center" width="90">
+      <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" /><br />RN
+    </td>
+    <td align="center" width="90">
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" /><br />Flutter
+    </td>
+    <td align="center" width="90">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" /><br />Firebase
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" /><br />AWS
+    </td>
+    <td align="center" width="90">
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" /><br />Figma
+    </td>
+    <td align="center" width="90">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" /><br />Git
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠 Languages and Tools
+## 📊 Stats & Activity
 
-### 🌐 Frontend & Design
-<p align="left">
-  <a href="https://javascript.info/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" /></a>
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" /></a>
-  <a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="45" height="45" /></a>
-  <a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="45" height="45" /></a>
-  <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45" /></a>
-  <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45" /></a>
-  <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45" /></a>
-  <a href="https://www.adobe.com/products/illustrator.html"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="45" height="45" /></a>
-</p>
-
-### ⚙️ Backend & Databases
-<p align="left">
-  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" /></a>
-  <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45" /></a>
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45" /></a>
-  <a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45" /></a>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45" /></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" /></a>
-  <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" /></a>
-</p>
-
-### 📱 Mobile & Cloud & Others
-<p align="left">
-  <a href="https://reactnative.dev/"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="45" height="45" /></a>
-  <a href="https://flutter.dev/"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="45" height="45" /></a>
-  <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45" /></a>
-  <a href="https://cloud.google.com/"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="45" /></a>
-  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45" /></a>
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45" /></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45" /></a>
-  <a href="https://unity.com/"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="45" height="45" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajeshnraj2004&show_icons=true&theme=radical" alt="Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshnraj2004&theme=radical" alt="Streak" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajeshnraj2004&show_icons=true&theme=radical" alt="rajeshnraj2004" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshnraj2004&theme=radical" alt="rajeshnraj2004" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeshnraj2004&show_icons=true&locale=en&layout=compact&theme=radical" alt="rajeshnraj2004" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rajeshnraj2004&theme=radical" alt="rajeshnraj2004" />
-  </a>
-</p>
-
----
-
-## ⚡️ Where to find me
+## ⚡️ Connect with me
 <p align="center">
 <a target="_blank" href="https://x.com/rajesh391032065"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.instagram.com/iamrajesh.30"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
