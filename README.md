@@ -1,3 +1,7 @@
+<style>
+body { font-family: Verdana; }
+</style>
+
 <h1 align="center">Hi 👋, I'm Rajesh N</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
@@ -47,13 +51,13 @@
 
 ## 📊 GitHub Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajeshnraj2004&show_icons=true&theme=vue&include_all_commits=true" alt="Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshnraj2004&theme=vue" alt="Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshnraj2004&layout=compact&theme=vue" alt="Langs" />
-</p>
+<table border="0" align="left">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=rajeshnraj2004&show_icons=true&theme=vue&include_all_commits=true" alt="Stats" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshnraj2004&theme=vue" alt="Streak" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshnraj2004&layout=compact&theme=vue" alt="Langs" /></td>
+  </tr>
+</table>
 
 ---
 
