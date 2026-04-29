@@ -23,7 +23,7 @@
         body {
             background-color: var(--bg-color);
             color: var(--text-main);
-            font-family: Verdana, sans-serif; /* VERDANA APPLIED HERE */
+            font-family: Verdana, sans-serif; 
             line-height: 1.6;
             display: flex;
             justify-content: center;
@@ -117,7 +117,6 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            /* NO HOVER EFFECTS APPLIED HERE */
         }
 
         .tech-icon img {
@@ -147,7 +146,7 @@
             grid-column: 1 / -1;
         }
 
-        /* --- Trophy Section (Relocated) --- */
+        /* --- Trophy Section --- */
         .trophy-container {
             text-align: center;
             background: var(--card-bg);
@@ -194,7 +193,10 @@
             <div class="social-links">
                 <a href="https://instagram.com/iamrajesh.30" target="blank">
                     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamrajesh.30" height="30" width="40" />
-                
+                </a>
+                <a href="https://www.topcoder.com/members/560061" target="blank">
+                    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="560061" height="30" width="40" />
+                </a>
             </div>
         </section>
 
@@ -358,7 +360,7 @@
             </div>
         </section>
 
-        <!-- Trophy Section MOVED HERE (After Stats) -->
+        <!-- Trophy Section (After Stats) -->
         <div class="trophy-container">
             <h2>Trophies</h2>
             <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
