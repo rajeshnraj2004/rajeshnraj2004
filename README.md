@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Rajesh%20N&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=A%20passionate%20full%20stack%20developer%20from%20India&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Rajesh N</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=rajeshnraj2004">
